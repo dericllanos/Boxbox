@@ -1,6 +1,6 @@
 # Chase The Light (2018)
 The first ever game that I developed while in University. <br />
-[Click here]: https://drive.google.com/file/d/1M_JN3ibzDbr7qIkvCBizhu4tQ8cmUx3V/view?usp=sharing
+[Click here](https://drive.google.com/file/d/1M_JN3ibzDbr7qIkvCBizhu4tQ8cmUx3V/view?usp=sharing)
 
 ## ABOUT: <br />
 Sorry that it's a zip file and in the form of a drive link hehehe <br />
