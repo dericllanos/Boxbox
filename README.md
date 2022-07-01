@@ -5,7 +5,7 @@ The first ever game that I developed while in University. <br />
 ## ABOUT: <br />
 Sorry that it's a zip file and in the form of a drive link hehehe <br />
 At the time, the closest thing I had to version control was google drive. <br /> <br />
-![download](https://media4.giphy.com/media/32mC2kXYWCsg0/giphy.gif?cid=ecf05e47krrq3esjbz6o17brxtvrcoq051fb6yy48wmbt6jy&rid=giphy.gif&ct=g)
+![download](https://64.media.tumblr.com/bea8527857193edf17b3562cb8894475/tumblr_inline_nshatvlRjx1qhcehh_400.gifv)
 
 The core concept of the game and puzzles was heavily inspired by the ice puzzles from pokemon. <br /> <br />
 ![VariableWatchfulGlassfrog-size_restricted](https://user-images.githubusercontent.com/79740554/176944263-25be1281-bc48-4bd2-ba63-148c93ffa179.gif)
