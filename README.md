@@ -10,7 +10,7 @@ At the time, the closest thing I had to version control was google drive. <br />
 The core concept of the game and puzzles was heavily inspired by the ice puzzles from pokemon. <br /> <br />
 ![VariableWatchfulGlassfrog-size_restricted](https://user-images.githubusercontent.com/79740554/176944263-25be1281-bc48-4bd2-ba63-148c93ffa179.gif)
 
-The main difference with my game is the dark gray blocks are there in place of the boulders in the pokemon version and if you touch the terrain you basically die. You are given 5 lives and the goal of the game is to navigate from your start position and touch the red glowing block; hence, "Chase the Light".
+The main difference with my game is the dark gray blocks are there in place of the boulders in the pokemon version and if you touch the terrain you basically die. You are given 5 lives and the goal of the game is to navigate from your start position and touch the red glowing block; hence, "Chase The Light".
 
 ## CONTROLS: <br />
 WASD - Movement
