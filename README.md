@@ -1,7 +1,7 @@
 # Chase The Light (2018)
 The first ever game that I developed while in University.
 
-Sorry that it's a zip file hehehe At the time, the closest thing I had to version control was google drive.
+Sorry that it's a zip file hehehe At the time, the closest thing I had to version control was google drive. <br />
 ![download](https://user-images.githubusercontent.com/79740554/176943796-39ec6fce-5e1d-4c83-83b0-28a4d2b0ac5b.jpg)
 
 The core concept of the game was heavily inspired by the ice puzzles from pokemon. 
