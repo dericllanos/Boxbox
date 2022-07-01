@@ -15,4 +15,4 @@ The main difference with my game is the dark gray blocks are there in place of t
 ## CONTROLS: <br />
 WASD - Movement
 
-###### That's everything... Have fun! (5-levels worth)
+#### That's everything... Have fun! (5-levels worth)
